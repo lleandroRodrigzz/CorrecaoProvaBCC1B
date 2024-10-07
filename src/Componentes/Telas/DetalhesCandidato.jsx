@@ -11,7 +11,7 @@ export default function DetalhesCandidato(props) {
 
     return (
         <Container>
-            <h1>Detalhes Candidato</h1>                             {/*propostas*/}
+            <h1>Detalhes Candidato</h1>{/*propostas*/}
             <img variant="top" height="300" width="300" src={props.candidatoSelecionado.avatar} />
             <p>Nome: {props.candidatoSelecionado.nome}</p>
             <p>Email: {props.candidatoSelecionado.email}</p>
