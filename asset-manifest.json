@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/CorrecaoProvaBCC1B/static/css/main.d221dc40.css",
-    "main.js": "/CorrecaoProvaBCC1B/static/js/main.73a47fb1.js",
-    "static/media/Eleicoes-2024.png": "/CorrecaoProvaBCC1B/static/media/Eleicoes-2024.76d146dfa608a3c512b4.png",
-    "index.html": "/CorrecaoProvaBCC1B/index.html",
-    "main.d221dc40.css.map": "/CorrecaoProvaBCC1B/static/css/main.d221dc40.css.map",
-    "main.73a47fb1.js.map": "/CorrecaoProvaBCC1B/static/js/main.73a47fb1.js.map"
+    "main.css": "/projetoeleicoes2024/static/css/main.d221dc40.css",
+    "main.js": "/projetoeleicoes2024/static/js/main.a4c078e5.js",
+    "static/media/Eleicoes-2024.png": "/projetoeleicoes2024/static/media/Eleicoes-2024.76d146dfa608a3c512b4.png",
+    "index.html": "/projetoeleicoes2024/index.html",
+    "main.d221dc40.css.map": "/projetoeleicoes2024/static/css/main.d221dc40.css.map",
+    "main.a4c078e5.js.map": "/projetoeleicoes2024/static/js/main.a4c078e5.js.map"
   },
   "entrypoints": [
     "static/css/main.d221dc40.css",
-    "static/js/main.73a47fb1.js"
+    "static/js/main.a4c078e5.js"
   ]
 }
