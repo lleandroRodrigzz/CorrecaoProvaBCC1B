@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CorrecaoProvaBCC1B/static/css/main.d221dc40.css",
-    "main.js": "/CorrecaoProvaBCC1B/static/js/main.73a47fb1.js",
+    "main.js": "/CorrecaoProvaBCC1B/static/js/main.dfed54cd.js",
     "static/media/Eleicoes-2024.png": "/CorrecaoProvaBCC1B/static/media/Eleicoes-2024.76d146dfa608a3c512b4.png",
     "index.html": "/CorrecaoProvaBCC1B/index.html",
     "main.d221dc40.css.map": "/CorrecaoProvaBCC1B/static/css/main.d221dc40.css.map",
-    "main.73a47fb1.js.map": "/CorrecaoProvaBCC1B/static/js/main.73a47fb1.js.map"
+    "main.dfed54cd.js.map": "/CorrecaoProvaBCC1B/static/js/main.dfed54cd.js.map"
   },
   "entrypoints": [
     "static/css/main.d221dc40.css",
-    "static/js/main.73a47fb1.js"
+    "static/js/main.dfed54cd.js"
   ]
 }
