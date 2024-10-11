@@ -1,8 +1,8 @@
 {
-  "name": "projetoeleicoes2024",
+  "name": "CorrecaoProvaBCC1B",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://lleandroRodrigzz.github.io/projetoeleicoes2024",
+  "homepage": "http://lleandroRodrigzz.github.io/CorrecaoProvaBCC1B",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
